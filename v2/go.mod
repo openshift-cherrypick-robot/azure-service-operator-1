@@ -45,7 +45,7 @@ require (
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/prometheus/client_golang v1.22.0
 	github.com/rotisserie/eris v0.5.4
-	github.com/samber/lo v1.49.1
+	github.com/samber/lo v1.53.0
 	github.com/spf13/cobra v1.9.1
 	go.uber.org/zap v1.27.0
 	golang.org/x/crypto v0.40.0
