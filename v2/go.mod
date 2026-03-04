@@ -34,7 +34,7 @@ require (
 	github.com/google/cel-go v0.22.1
 	github.com/google/go-cmp v0.7.0
 	github.com/google/uuid v1.6.0
-	github.com/hbollon/go-edlib v1.6.0
+	github.com/hbollon/go-edlib v1.7.0
 	github.com/jackc/pgx/v5 v5.7.4
 	github.com/jellydator/ttlcache/v3 v3.3.0
 	github.com/kr/pretty v0.3.1
