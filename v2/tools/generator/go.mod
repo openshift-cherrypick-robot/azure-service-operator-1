@@ -1,8 +1,6 @@
 module github.com/Azure/azure-service-operator/v2/tools/generator
 
-go 1.23.0
-
-toolchain go1.23.4
+go 1.24.4
 
 // Needed to reference shared version numbering:
 replace github.com/Azure/azure-service-operator/v2 => ../../
@@ -43,7 +41,7 @@ require (
 require (
 	github.com/go-openapi/jsonreference v0.21.0 // indirect
 	github.com/go-openapi/swag v0.23.1 // indirect
-	github.com/hbollon/go-edlib v1.6.0 // indirect
+	github.com/hbollon/go-edlib v1.7.0 // indirect
 	github.com/inconshreveable/mousetrap v1.1.0 // indirect
 	github.com/josharian/intern v1.0.0 // indirect
 	github.com/kr/text v0.2.0 // indirect
