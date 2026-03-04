@@ -1,8 +1,6 @@
 module github.com/Azure/azure-service-operator/v2/tools/generator
 
-go 1.23.0
-
-toolchain go1.23.4
+go 1.24.4
 
 // Needed to reference shared version numbering:
 replace github.com/Azure/azure-service-operator/v2 => ../../
@@ -27,7 +25,7 @@ require (
 	github.com/onsi/gomega v1.37.0
 	github.com/rotisserie/eris v0.5.4
 	github.com/rs/zerolog v1.34.0
-	github.com/sebdah/goldie/v2 v2.5.5
+	github.com/sebdah/goldie/v2 v2.8.0
 	github.com/spf13/cobra v1.9.1
 	github.com/spf13/pflag v1.0.6
 	github.com/xeipuuv/gojsonschema v1.2.0
