@@ -1,6 +1,6 @@
 module github.com/Azure/azure-service-operator/v2/cmd/asoctl
 
-go 1.24.4
+go 1.25.0
 
 replace github.com/Azure/azure-service-operator/v2 => ../../
 
@@ -114,8 +114,8 @@ require (
 	golang.org/x/net v0.48.0 // indirect
 	golang.org/x/oauth2 v0.34.0 // indirect
 	golang.org/x/sync v0.19.0 // indirect
-	golang.org/x/sys v0.40.0 // indirect
-	golang.org/x/term v0.38.0 // indirect
+	golang.org/x/sys v0.43.0 // indirect
+	golang.org/x/term v0.42.0 // indirect
 	golang.org/x/text v0.32.0 // indirect
 	golang.org/x/time v0.11.0 // indirect
 	gomodules.xyz/jsonpatch/v2 v2.5.0 // indirect
