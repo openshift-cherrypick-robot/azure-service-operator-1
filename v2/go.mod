@@ -1,6 +1,6 @@
 module github.com/Azure/azure-service-operator/v2
 
-go 1.24.4
+go 1.25.0
 
 require (
 	github.com/Azure/ARO-HCP/test/sdk/resourcemanager/redhatopenshifthcp/armredhatopenshifthcp v0.0.0-20251215192205-b81971652ba7
@@ -48,10 +48,10 @@ require (
 	github.com/samber/lo v1.49.1
 	github.com/spf13/cobra v1.9.1
 	go.uber.org/zap v1.27.0
-	golang.org/x/crypto v0.46.0
+	golang.org/x/crypto v0.50.0
 	golang.org/x/exp v0.0.0-20250305212735-054e65f0b394
-	golang.org/x/sync v0.19.0
-	golang.org/x/text v0.32.0
+	golang.org/x/sync v0.20.0
+	golang.org/x/text v0.36.0
 	golang.org/x/time v0.11.0
 	google.golang.org/protobuf v1.36.10 // indirect
 	gopkg.in/dnaeon/go-vcr.v3 v3.2.0
@@ -128,10 +128,10 @@ require (
 	go.opentelemetry.io/otel/trace v1.40.0 // indirect
 	go.opentelemetry.io/proto/otlp v1.5.0 // indirect
 	go.uber.org/multierr v1.11.0 // indirect
-	golang.org/x/net v0.48.0 // indirect
+	golang.org/x/net v0.52.0 // indirect
 	golang.org/x/oauth2 v0.34.0 // indirect
-	golang.org/x/sys v0.40.0 // indirect
-	golang.org/x/term v0.38.0 // indirect
+	golang.org/x/sys v0.43.0 // indirect
+	golang.org/x/term v0.42.0 // indirect
 	gomodules.xyz/jsonpatch/v2 v2.5.0 // indirect
 	google.golang.org/genproto/googleapis/api v0.0.0-20251202230838-ff82c1b0f217 // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20251202230838-ff82c1b0f217 // indirect
