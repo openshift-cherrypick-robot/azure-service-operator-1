@@ -14,7 +14,7 @@ require (
 	github.com/go-logr/zerologr v1.2.3
 	github.com/onsi/gomega v1.37.0
 	github.com/rotisserie/eris v0.5.4
-	github.com/rs/zerolog v1.34.0
+	github.com/rs/zerolog v1.35.1
 	github.com/sourcegraph/conc v0.3.0
 	github.com/spf13/cobra v1.9.1
 	github.com/vbauerster/mpb/v8 v8.9.3
