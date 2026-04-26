@@ -26,7 +26,7 @@ require (
 	github.com/leanovate/gopter v0.2.11
 	github.com/onsi/gomega v1.38.2
 	github.com/rotisserie/eris v0.5.4
-	github.com/rs/zerolog v1.34.0
+	github.com/rs/zerolog v1.35.1
 	github.com/sebdah/goldie/v2 v2.8.0
 	github.com/spf13/cobra v1.10.1
 	github.com/spf13/pflag v1.0.10
