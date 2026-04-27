@@ -10,7 +10,7 @@ Licensed under the MIT license.
 package v1api20200601
 
 import (
-	"github.com/crossplane/crossplane-runtime/apis/common/v1"
+	"github.com/crossplane/crossplane-runtime/v2/apis/common/v1"
 	runtime "k8s.io/apimachinery/pkg/runtime"
 )
 
