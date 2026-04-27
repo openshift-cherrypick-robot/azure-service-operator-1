@@ -27,7 +27,7 @@ require (
 	github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/subscription/armsubscription v1.2.0
 	github.com/Azure/msi-dataplane v0.4.3
 	github.com/benbjohnson/clock v1.3.5
-	github.com/dnaeon/go-vcr v1.2.0
+	github.com/dnaeon/go-vcr/v4 v4.0.6
 	github.com/go-logr/logr v1.4.3
 	github.com/go-logr/zapr v1.3.0
 	github.com/go-sql-driver/mysql v1.9.2
