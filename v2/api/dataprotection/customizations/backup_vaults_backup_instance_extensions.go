@@ -12,7 +12,7 @@ import (
 
 	. "github.com/Azure/azure-service-operator/v2/internal/logging"
 
-	"github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/dataprotection/armdataprotection/v3"
+	"github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/dataprotection/armdataprotection/v4"
 	"github.com/go-logr/logr"
 	"github.com/rotisserie/eris"
 	"sigs.k8s.io/controller-runtime/pkg/conversion"

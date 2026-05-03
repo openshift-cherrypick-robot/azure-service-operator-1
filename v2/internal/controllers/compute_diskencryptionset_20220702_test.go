@@ -11,7 +11,7 @@ import (
 
 	. "github.com/onsi/gomega"
 
-	"github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/keyvault/armkeyvault"
+	"github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/keyvault/armkeyvault/v2"
 
 	compute "github.com/Azure/azure-service-operator/v2/api/compute/v1api20220702"
 	keyvault "github.com/Azure/azure-service-operator/v2/api/keyvault/v1api20230701"

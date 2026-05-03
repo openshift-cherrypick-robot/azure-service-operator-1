@@ -10,7 +10,7 @@ import (
 
 	. "github.com/Azure/azure-service-operator/v2/internal/logging"
 
-	"github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/redhatopenshift/armredhatopenshift"
+	"github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/redhatopenshift/armredhatopenshift/v2"
 	"github.com/go-logr/logr"
 	"github.com/rotisserie/eris"
 	v1 "k8s.io/api/core/v1"
