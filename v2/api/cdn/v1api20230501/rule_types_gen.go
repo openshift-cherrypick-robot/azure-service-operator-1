@@ -779,15 +779,7 @@ func (rule *Rule_STATUS) PopulateFromARM(owner genruntime.ArbitraryOwnerReferenc
 		}
 	}
 
-	// Set property "Conditions":
-	for _, item := range typedInput.Conditions {
-		var item1 DeliveryRuleCondition_STATUS
-		err := item1.PopulateFromARM(owner, item)
-		if err != nil {
-			return err
-		}
-		rule.Conditions = append(rule.Conditions, item1)
-	}
+	// no assignment for property "Conditions"
 
 	// Set property "DeploymentStatus":
 	// copying flattened property:
